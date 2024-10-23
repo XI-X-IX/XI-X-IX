@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![COVER]
-(https://github.com/XI-X-IX/XI-X-IX/blob/img/12489388_1008930792499972_6506778418841573141_o.jpg)
+![Cover](https://github.com/XI-X-IX/XI-X-IX/blob/img/12489388_1008930792499972_6506778418841573141_o.jpg)
 
 
 
