@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Cover](https://github.com/XI-X-IX/XI-X-IX/blob/img/77caa32884d735d439ade45ba37feaf2.gif)
+
 <!--
 **XI-X-IX/XI-X-IX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
