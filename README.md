@@ -1,4 +1,4 @@
-## Hi there 👋
+## Starting from here
 
 ![Cover](https://github.com/XI-X-IX/XI-X-IX/blob/main/77caa32884d735d439ade45ba37feaf2.gif)
 
