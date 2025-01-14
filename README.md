@@ -107,10 +107,10 @@
 | [C07](https://github.com/Xxzer042xX/42-Piscine/tree/master/c07) | ✅ | 60% |
 | [C08](https://github.com/Xxzer042xX/42-Piscine) | ✅ | 100% |
 | [Rush00](https://github.com/Xxzer042xX/42-Piscine/tree/master/extra/rush/rush00_24) | ✅ | 116% |
-| Exam0 | ✅ | 90% |
-| Exam01 | ✅ | 70% |
-| Exam02 | ✅ | 60% |
-| Final Exam | ✅ | 60% |
+| Exam0 | ✅ | 30% |
+| Exam01 | ✅ | 20% |
+| Exam02 | ✅ | 30% |
+| Final Exam | ✅ | 40% |
 
 </td>
 </tr>
