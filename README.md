@@ -1,4 +1,6 @@
-## Starting from here
+<p align="center">
+  <b>👋 Hi there! </b>
+</p>
 
 ![Cover](https://github.com/XI-X-IX/XI-X-IX/blob/main/77caa32884d735d439ade45ba37feaf2.gif)
 
@@ -16,9 +18,7 @@
   <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
 </p>
 
-<p align="center">
-  <b>👋 Hi there! </b>
-</p>
+
 <br><br>
 
 <!--
