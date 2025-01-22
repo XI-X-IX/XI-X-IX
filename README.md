@@ -1,5 +1,5 @@
 <p align="center">
-  <b>👋 Hi there! </b>
+  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
 </p>
 
 ![Cover](https://github.com/XI-X-IX/XI-X-IX/blob/main/77caa32884d735d439ade45ba37feaf2.gif)
@@ -14,9 +14,7 @@
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 <hr>
 
-<p align="center">
-  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
-</p>
+
 
 
 <br><br>
