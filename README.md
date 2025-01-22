@@ -2,7 +2,7 @@
   <b>👋 Hi there! </b>
 </p>
 
-![Cover]([https://github.com/XI-X-IX/XI-X-IX/blob/main/77caa32884d735d439ade45ba37feaf2.gif](https://github.com/XI-X-IX/XI-X-IX/blob/main/c5dea71bf95716cddb34303d44d55cd7.jpg))
+![Cover]((https://github.com/XI-X-IX/XI-X-IX/blob/main/c5dea71bf95716cddb34303d44d55cd7.jpg))
 
 
 
