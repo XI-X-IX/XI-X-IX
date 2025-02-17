@@ -69,7 +69,7 @@
 || [get_next_line](https://github.com/Xxzer042xX/42-Common-Core/tree/main/get_next_line) | ✅ | 100/100 | ~70h |
 || [Born2beroot](https://github.com/Xxzer042xX/404) | ✅ | 100/100 | ~40h |
 | Circle 2 | [so_long](https://github.com/Xxzer042xX/42-Common-Core/tree/main/fdf) | ✅ | 96/100 | ~60h |
-|| [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) |  | 125/100 | ~60h |
+|| [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) | ✅ | 125/100 | ~60h |
 || [minitalk](https://github.com/Xxzer042xX/42-Common-Core/tree/main/pipex) | ✅ | 125/100 | ~50h |
 || Examen 02 | ✅ | 100/100 | ~4h |
 | Circle 3 | minishell | 🔄 | In Progress | ~210h |
