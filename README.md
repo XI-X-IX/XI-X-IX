@@ -64,20 +64,20 @@
 
 | Circle | Project | Status | Score | Time |
 |:------:|:--------|:------:|:-----:|:----:|
-| Circle 0 | [Libft](https://github.com/Xxzer042xX/42-Common-Core/tree/main/libft) | ✅ | 100/100 | ~70h |
-| Circle 1 | [ft_printf](https://github.com/Xxzer042xX/404) | ✅ | 100/100 | ~70h |
-|| [get_next_line](https://github.com/Xxzer042xX/42-Common-Core/tree/main/get_next_line) | ✅ | 100/100 | ~70h |
-|| [Born2beroot](https://github.com/Xxzer042xX/404) | ✅ | 100/100 | ~40h |
-| Circle 2 | [so_long](https://github.com/Xxzer042xX/42-Common-Core/tree/main/fdf) | ✅ | 96/100 | ~60h |
-|| [push_swap](https://github.com/Xxzer042xX/42-Common-Core/tree/main/push_swap) | ✅ | 125/100 | ~60h |
-|| [minitalk](https://github.com/Xxzer042xX/42-Common-Core/tree/main/pipex) | ✅ | 125/100 | ~50h |
+| Circle 0 | Libft | ✅ | 100/100 | ~70h |
+| Circle 1 | ft_printf | ✅ | 100/100 | ~70h |
+|| get_next_line | ✅ | 100/100 | ~70h |
+|| Born2beroot | ✅ | 100/100 | ~40h |
+| Circle 2 | so_long | ✅ | 96/100 | ~60h |
+|| [push_swap](https://github.com/XI-X-IX/push_swap) | ✅ | 125/100 | ~60h |
+|| minitalk | ✅ | 125/100 | ~50h |
 || Examen 02 | ✅ | 100/100 | ~4h |
 | Circle 3 | minishell | 🔄 | In Progress | ~210h |
 || Philosopher | 🔄 | In Progress | ~70h |
 || Examen 03 | 🔄 | In Progress | ~4h |
 | Circle 4 | miniRT | 🔒 | Forbidden | ~280h |
 || cube3D | 🔒 | Forbidden | ~280h |
-|| NetPractic | 🔒 | Forbidden | ~50h |
+|| NetPractice | 🔒 | Forbidden | ~50h |
 || cpp modules 00 -> 04 | 🔒 | Forbidden | ~60h |
 || Examen 04 | 🔒 | Forbidden | ~4h |
 
