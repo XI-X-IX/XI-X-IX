@@ -72,14 +72,13 @@
 || [push_swap](https://github.com/XI-X-IX/push_swap) | ✅ | 125/100 | ~60h |
 || minitalk | ✅ | 125/100 | ~50h |
 || Examen 02 | ✅ | 100/100 | ~4h |
-| Circle 3 | minishell | 🔄 | In Progress | ~210h |
-|| Philosopher | 🔄 | In Progress | ~70h |
-|| Examen 03 | 🔄 | In Progress | ~4h |
-| Circle 4 | miniRT | 🔒 | Forbidden | ~280h |
-|| cube3D | 🔒 | Forbidden | ~280h |
-|| NetPractice | 🔒 | Forbidden | ~50h |
-|| cpp modules 00 -> 04 | 🔒 | Forbidden | ~60h |
-|| Examen 04 | 🔒 | Forbidden | ~4h |
+| Circle 3 | minishell | ✅ | 100/100 | ~210h |
+|| Philosopher | ✅ | 100/100 | ~70h |
+|| Examen 03 | ✅ | 100/100 | ~4h |
+| Circle 4 | cube3D | 🔄 | In Progress | ~280h |
+|| NetPractice | 🔄 | In Progress | ~50h |
+|| cpp modules 00 -> 04 | 🔄 | In Progress | ~60h |
+|| Examen 04 | 🔄 | In Progress | ~4h |
 
 </td>
 <td width="50%" align="center" valign="top">
