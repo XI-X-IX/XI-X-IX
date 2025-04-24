@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+# 👨‍💻 À propos de moi
 
 Je m'appelle **XI-X-IX**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
 J’ai un fort intérêt pour la **cybersécurité**, l’**optimisation logicielle**, et l’apprentissage continu.  
@@ -20,7 +20,7 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 
 ---
 
-## 🔍 Je recherche...
+# 🔍 Je recherche...
 
 - 🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**
 - 🌍 Localisation : Suisse / Europe / Remote-friendly
@@ -30,7 +30,7 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 
 ---
 
-## 🚀 Projets techniques clés
+# 🚀 Projets techniques clés
 
 | Projet | Description | Stack / Résultat |
 |--------|-------------|------------------|
@@ -42,7 +42,7 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 
 ---
 
-## 🛠️ Stack & Outils
+# 🛠️ Stack & Outils
 
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=gnu-bash)
@@ -53,6 +53,13 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 ![Makefile](https://img.shields.io/badge/-Makefile-brightgreen?style=flat)
 
 ---
+
+# 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)  
+📧 [tonmail@domaine.com](mailto:tonmail@domaine.com)
+
+
 
 # 🎓 42 School Progress
 ---
@@ -117,13 +124,7 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 </table>
 </div>
 <br>
-<!--
-**************************************************
-  School 42 Promotion Section
-  - Information about joining School 42
-  - Disclaimer and logo
-**************************************************
--->
+
 
 # 🎓 Join School 42
 ---
@@ -145,11 +146,7 @@ Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pra
 
 </div>
 
+<p align="center">
+  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_logo.png" alt="Cover GIF">
+</p>
 
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)  
-📧 [tonmail@domaine.com](mailto:tonmail@domaine.com)
