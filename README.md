@@ -85,8 +85,8 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)  
-📧 [tonmail@domaine.com](mailto:tonmail@domaine.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/alexandra-dos-santos-381a40278/))  
+📧 [axds.contact@gmail.com](axds.contact@gmail.com)
 
 </div>
 
