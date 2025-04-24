@@ -14,17 +14,20 @@ ___
 
 ## 👨‍💻 À propos de moi
 
+<br>
+
 Je m'appelle **AXDS**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
 J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
 
+<br>
 
 ---
 
-<br><br>
-
 ## 🔍 Je recherche...
 <div align="center">
-
+  
+<br>
+  
 🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**  
 🌍 Localisation : Suisse / Europe / Remote-friendly  
 📅 Disponible de suite  
@@ -34,13 +37,15 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 </div>
 
----
+<br>
 
-<br><br>
+---
 
 ## 🚀 Projets techniques clés
 
 <div align="center">
+
+<br>
 
 | Projet | Description | Stack |
 |--------|-------------|------------------|
@@ -66,13 +71,15 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 </div>
 
----
+<br>
 
-<br><br>
+---
 
 ## 📫 Me contacter
 
 <div align="center">
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)  
 📧 [tonmail@domaine.com](mailto:tonmail@domaine.com)
@@ -84,8 +91,6 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 ---
 
 ## 🎓 42 School Progress  
-
----
 
 <br>
 <div align="center">
@@ -147,6 +152,8 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 </div>
 <br>
 
+
+---
 
 ## 🎓 Join School 42
 ---
