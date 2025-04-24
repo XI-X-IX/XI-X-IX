@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/77caa32884d735d439ade45ba37feaf2.gif" alt="Cover GIF">
+  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/AXDS(1).png" alt="Cover GIF">
 </p>
 
 ---
