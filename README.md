@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
 
 <p align="center">
-  <em>Développeur passionné formé à l'école 42, explorateur de l'informatique bas niveau, de la cybersécurité et des mondes open source.</em>
+  <em>Développeur passionné formé à l'école 42, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
 </p>
 
 <p align="center">
