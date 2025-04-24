@@ -20,14 +20,14 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 ---
 
-<div align="center">
 ## 🔍 Je recherche...
+<div align="center">
 
-- 🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**
-- 🌍 Localisation : Suisse / Europe / Remote-friendly
-- 📅 Disponible à partir de : **[ajoute ta date de dispo]**
+🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**
+🌍 Localisation : Suisse / Europe / Remote-friendly
+📅 Disponible de suite
 
-[![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:tonemail@domain.com)
+[![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:a.dos.santos@live.fr)
 
 
 </div>
@@ -36,18 +36,23 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 ## 🚀 Projets techniques clés
 
-| Projet | Description | Stack / Résultat |
+<div align="center">
+
+| Projet | Description | Stack |
 |--------|-------------|------------------|
-| [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | 125/100 — C |
-| Minishell | Reproduction d’un shell UNIX (fork, execve, pipes, signaux) | 100/100 — C |
-| Born2beroot | Setup serveur Linux sécurisé (firewall, users, monitoring) | 100/100 — Bash, Debian |
-| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D avec map parser, pathfinding, sprite display | 96/100 — C, mlx |
-| Philosopher | Implémentation du problème des philosophes (threads, mutex) | 100/100 — C, pthreads |
+| [axds.ch](https://axds.ch) | Site web moderne et reactif avec animations fluides | TypeScript - CSS |
+| [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | C |
+| Minishell | Reproduction d’un shell UNIX  | C |
+| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créés à partir de zéro | C - mlx |
+| Bot de Trading | Bot automatisé pour le trading de cryptomonnaies | Python |
+
+</div>
 
 ---
 
 ## 🛠️ Stack & Outils
 
+<div align="center">
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
@@ -56,14 +61,18 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim)
 ![Makefile](https://img.shields.io/badge/-Makefile-brightgreen?style=flat)
 
+</div>
+
 ---
 
 ## 📫 Me contacter
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tonprofil)  
 📧 [tonmail@domaine.com](mailto:tonmail@domaine.com)
 
-
+</div>
 
 ## 🎓 42 School Progress
 ---
