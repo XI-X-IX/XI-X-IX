@@ -20,6 +20,7 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 ---
 
+<div align="center">
 ## 🔍 Je recherche...
 
 - 🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**
@@ -27,6 +28,9 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 - 📅 Disponible à partir de : **[ajoute ta date de dispo]**
 
 [![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:tonemail@domain.com)
+
+
+</div>
 
 ---
 
