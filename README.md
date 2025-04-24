@@ -41,10 +41,10 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 | Projet | Description | Stack |
 |--------|-------------|------------------|
 | [axds.ch](https://axds.ch) | Site web moderne et reactif avec animations fluides | TypeScript - CSS |
-| [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | C |
-| Minishell | Reproduction d’un shell UNIX  | C |
-| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créés à partir de zéro | C - mlx |
 | Bot de Trading | Bot automatisé pour le trading de cryptomonnaies | Python |
+| [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | C |
+| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créés à partir de zéro | C - mlx |
+
 
 </div>
 
