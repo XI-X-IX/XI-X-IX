@@ -15,8 +15,8 @@
 ## 👨‍💻 À propos de moi
 
 Je m'appelle **XI-X-IX**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
-J’ai un fort intérêt pour la **cybersécurité**, l’**optimisation logicielle**, et l’apprentissage continu.  
-Je cherche à rejoindre une équipe tech dynamique où je pourrais mettre en pratique mes compétences et continuer à apprendre auprès des meilleurs.
+J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
+
 
 ---
 
