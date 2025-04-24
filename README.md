@@ -1,13 +1,7 @@
 <p align="center">
   <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_logo.png" alt="Cover GIF">
 </p>
-
-<p align="center">
-  <img src="images/scifi_room.gif" alt="Welcome to my GitHub profile!">
-</p>
-
-<h1 align="center">Welcome to my GitHub profile ! 🚀</h1>
-
+---
 <p align="center">
   <em>Développeur passionné formé à l'école 42, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
 </p>
