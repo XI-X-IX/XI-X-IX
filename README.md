@@ -57,7 +57,7 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   
@@ -68,6 +68,10 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim)
 ![Makefile](https://img.shields.io/badge/-Makefile-brightgreen?style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 </div>
 
