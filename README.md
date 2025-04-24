@@ -8,24 +8,26 @@
   <em>Développeur passionné formé à l'école 42, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
 </p>
 
+___
 
-
----
+<br><br>
 
 ## 👨‍💻 À propos de moi
 
-Je m'appelle **XI-X-IX**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
+Je m'appelle **AXDS**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
 J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
 
 
 ---
 
+<br><br>
+
 ## 🔍 Je recherche...
 <div align="center">
 
-🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**
-🌍 Localisation : Suisse / Europe / Remote-friendly
-📅 Disponible de suite
+🛠 Un **stage** ou **emploi junior** en **back-end**, **systèmes** ou **cybersécurité**  
+🌍 Localisation : Suisse / Europe / Remote-friendly  
+📅 Disponible de suite  
 
 [![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:a.dos.santos@live.fr)
 
@@ -33,6 +35,8 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 </div>
 
 ---
+
+<br><br>
 
 ## 🚀 Projets techniques clés
 
@@ -48,11 +52,10 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 </div>
 
----
-
-## 🛠️ Stack & Outils
+<br><br>
 
 <div align="center">
+  
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
@@ -65,6 +68,8 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 ---
 
+<br><br>
+
 ## 📫 Me contacter
 
 <div align="center">
@@ -74,8 +79,14 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 
 </div>
 
-## 🎓 42 School Progress
+<br><br>
+
 ---
+
+## 🎓 42 School Progress  
+
+---
+
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Lausanne-1E2024?style=for-the-badge&logo=42" />
@@ -92,8 +103,6 @@ J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisa
 <br>
 <img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
-
-
 
 
 | Circle | Project | Status | Score | Time |
