@@ -16,7 +16,7 @@ ___
 
 <br>
 
-Je m'appelle **AXDS**, je suis étudiant à [42 Lausanne](https://42lausanne.ch/), où je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
+Je m'appelle **AXDS**, formé à [42 Lausanne](https://42lausanne.ch/), je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
 J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
 
 <br>
