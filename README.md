@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_logo.png" alt="Cover GIF">
+  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_baniere.png" alt="Cover GIF">
 </p>
 
 ---
 
 <p align="center">
-  <em>Développeur passionné formé à l'école 42, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
+  <em>Développeur passionné, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
 </p>
 
 ___
@@ -14,10 +14,16 @@ ___
 
 ## 👨‍💻 À propos de moi
 
+<div align="center">
+
 <br>
 
-Je m'appelle **AXDS**, formé à [42 Lausanne](https://42lausanne.ch/), je développe des projets C, Bash, systèmes UNIX, et algorithmes complexes.  
+Je m'appelle **AXDS**, formé à l'école [42](https://42lausanne.ch/), je développe des projets C, Bash, web, systèmes UNIX, et algorithmes complexes.  
 J’ai un fort intérêt pour le **web**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
+Plus d'info sur mon site :  
+[axds.ch](https://axds.ch)  
+
+</div>
 
 <br>
 
