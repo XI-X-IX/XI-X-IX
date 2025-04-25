@@ -56,7 +56,7 @@ Plus d'info sur mon site :
 | Projet | Description | Stack |
 |--------|-------------|------------------|
 | [axds.ch](https://axds.ch) | Site web moderne et reactif avec animations fluides | TypeScript - CSS |
-| Bot de Trading | Bot automatisé pour le trading de cryptomonnaies | Python |
+| [Bot de Trading](https://github.com/XI-X-IX/DemoXbot) | Bot automatisé pour le trading de cryptomonnaies | Python |
 | [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | C |
 | [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créés à partir de zéro | C - mlx |
 
