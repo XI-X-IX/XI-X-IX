@@ -18,8 +18,8 @@ ___
 
 <br>
 
-Je m'appelle **AXDS**, formé à l'école [42](https://42lausanne.ch/), je développe des projets C, Bash, web, systèmes UNIX, et algorithmes complexes.  
-J’ai un fort intérêt pour le **Machine Learning / IA**, la **cybersécurité**, l’**optimisation logicielle**, la **finance**, et l’apprentissage continu.  
+Je m'appelle **AXDS**, formé à l'école [42](https://42lausanne.ch/), je développe des projets C, Bash, web, systèmes UNIX, et algorithmes.  
+J’ai un fort intérêt pour le **Machine Learning**, la **cybersécurité**, l’**optimisation logicielle**, et la **finance**.  
 Plus d'info sur mon site :  
 [axds.ch](https://axds.ch)  
 
@@ -34,7 +34,7 @@ Plus d'info sur mon site :
   
 <br>
   
-🛠 Un **stage** ou **emploi** en tant que Développeur Junior Full Stack, Logiciel ou IA/Machine Learning.  
+🛠 Un **stage** ou **emploi** en tant que Développeur Junior.  
 🌍 Localisation : Suisse / Europe / Remote-friendly  
 📅 Disponible de suite  
 
