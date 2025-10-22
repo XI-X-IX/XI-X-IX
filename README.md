@@ -118,13 +118,13 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 <br>
 
 <p align="center">
-  <img src="https://progress-bar.dev/83/?title=83%25%20Completed&width=500&color=1E90FF&suffix=%20🎓">
+  <img src="https://img.shields.io/badge/Progress-83%25-blue?style=for-the-badge&logo=42&logoColor=white" />
 </p>
 
-<br>
+<div align="center">
 
 | Niveau | Statut | Détails |
-|:------:|:-------|:--------|
+|:------:|:-------:|:--------:|
 | 🟢 **Cercle 0** | ✅ | Libft |
 | 🟢 **Cercle 1** | ✅ | ft_printf, get_next_line, Born2beroot |
 | 🟢 **Cercle 2** | ✅ | so_long, push_swap, minitalk |
@@ -132,6 +132,8 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 | 🟢 **Cercle 4** | ✅ | cube3D, NetPractice, CPP Modules |
 | ⚫ **Cercle 5** | 🔄 | En cours... |
 | ⚫ **Cercle Final** | 🔄 | Fin du Common Core |
+
+</div>
 
 <br>
 
