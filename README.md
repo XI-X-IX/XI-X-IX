@@ -18,7 +18,7 @@
 
 <br>
 
-Je m'appelle **AXDS**, étudiante à l'école [42 Lausanne](https://42lausanne.ch/), où j’explore le développement système, l’algorithmie et la programmation bas niveau en **C**.  
+Étudiante à l'école [42 Lausanne](https://42lausanne.ch/), j’explore le développement système, l’algorithmie et la programmation bas niveau en **C/C++**.  
 Je développe également des projets orientés **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.  
 
 💡 J’aime comprendre le fonctionnement interne des systèmes et repousser mes limites techniques.  
@@ -94,8 +94,8 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandra-dos-santos-381a40278/)  
-📧 [axds.contact@gmail.com](mailto:axds.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/axds/)  
+📧 [contact@axds.ch](mailto:axds.contact@gmail.com)
 
 </div>
 
