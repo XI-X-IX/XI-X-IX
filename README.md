@@ -22,6 +22,7 @@ Je m'appelle **AXDS**, étudiante à l'école [42 Lausanne](https://42lausanne.c
 Je développe également des projets orientés **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.  
 
 💡 J’aime comprendre le fonctionnement interne des systèmes et repousser mes limites techniques.  
+
 🔗 Plus d'infos sur mon site : [axds.ch](https://axds.ch)
 
 </div>
@@ -105,72 +106,40 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 ## 🎓 42 School Progress  
 
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Lausanne-1E2024?style=for-the-badge&logo=42" />
-</div>
-<br><br>
 
 <div align="center">
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
 
-### [📚 Common Core Progress](https://github.com/Xxzer042xX/42-Common-Core/blob/main/README.md)
+<img src="https://img.shields.io/badge/École-42%20Lausanne-1E2024?style=for-the-badge&logo=42&logoColor=white" />
 
-<br>
-<img src="https://img.shields.io/badge/Grade-In%20Progress-blue?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
 
-
-| Circle | Project | Status | Score | Time |
-|:------:|:--------|:------:|:-----:|:----:|
-| Circle 0 | Libft | ✅ | 100/100 | ~70h |
-| Circle 1 | ft_printf | ✅ | 100/100 | ~70h |
-|| get_next_line | ✅ | 100/100 | ~70h |
-|| Born2beroot | ✅ | 100/100 | ~40h |
-| Circle 2 | so_long | ✅ | 96/100 | ~60h |
-|| [push_swap](https://github.com/XI-X-IX/push_swap) | ✅ | 125/100 | ~60h |
-|| minitalk | ✅ | 125/100 | ~50h |
-|| Examen 02 | ✅ | 100/100 | ~4h |
-| Circle 3 | minishell | ✅ | 100/100 | ~210h |
-|| Philosopher | ✅ | 100/100 | ~70h |
-|| Examen 03 | ✅ | 100/100 | ~4h |
-| Circle 4 | cube3D | 🔄 | In Progress | ~280h |
-|| NetPractice | 🔄 | In Progress | ~50h |
-|| cpp modules 00 -> 04 | 🔄 | In Progress | ~60h |
-|| Examen 04 | 🔄 | In Progress | ~4h |
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### [🌊 Piscine Experience](https://github.com/Xxzer042xX/42-Piscine/blob/master/README.MD)
+🎯 **Progression du cursus — 5 cercles sur 6 validés**
 
 <br>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
-<br><br>
-
-| Module | Status | Score |
-|:------:|:------:|:-----:|
-| Exam0 | ✅ | 30% |
-| Exam01 | ✅ | 20% |
-| Exam02 | ✅ | 30% |
-| Final Exam | ✅ | 40% |
-
-</td>
-</tr>
-</table>
-</div>
-<br>
-
----
-
-## 🧠 Orientation Cybersécurité
----
 
 <p align="center">
-  <em>Passionnée par la compréhension des systèmes, l’analyse réseau et la sécurité applicative.</em><br>
-  <b>Projets à venir :</b> développement d’outils d’analyse réseau, détection d’intrusions et automatisation de pentests légaux.
+  <img src="https://progress-bar.dev/83/?title=83%25%20Completed&width=500&color=1E90FF&suffix=%20🎓">
 </p>
+
+<br>
+
+| Niveau | Statut | Détails |
+|:------:|:-------|:--------|
+| 🟢 **Cercle 0** | ✅ | Libft |
+| 🟢 **Cercle 1** | ✅ | ft_printf, get_next_line, Born2beroot |
+| 🟢 **Cercle 2** | ✅ | so_long, push_swap, minitalk |
+| 🟢 **Cercle 3** | ✅ | minishell, philosopher |
+| 🟢 **Cercle 4** | ✅ | cube3D, NetPractice, CPP Modules |
+| ⚫ **Cercle 5** | 🔄 | En cours... |
+| ⚫ **Cercle Final** | 🔄 | Fin du Common Core |
+
+<br>
+
+### 🔐 Spécialisation à venir — **Cybersécurité & Réseaux**
+<em>Après le Common Core, je souhaite me spécialiser dans la cybersécurité, l’analyse réseau et la protection des systèmes.</em><br>
+<b>Objectif :</b> poursuivre jusqu’au niveau master avec un focus sur le pentesting, la sécurité applicative et l’automatisation d’outils réseau.
+
+</div>
 
 ---
 
