@@ -125,13 +125,13 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 
 | Niveau | Statut | Détails |
 |:------:|:-------:|:--------:|
-| 🟢 **Cercle 0** | ✅ | Libft |
-| 🟢 **Cercle 1** | ✅ | ft_printf, get_next_line, Born2beroot |
-| 🟢 **Cercle 2** | ✅ | so_long, push_swap, minitalk |
-| 🟢 **Cercle 3** | ✅ | minishell, philosopher |
-| 🟢 **Cercle 4** | ✅ | cube3D, NetPractice, CPP Modules |
-| ⚫ **Cercle 5** | 🔄 | En cours... |
-| ⚫ **Cercle Final** | 🔄 | Fin du Common Core |
+| 🟢 **Level 0** | ✅ | Libft |
+| 🟢 **Level 1** | ✅ | ft_printf, get_next_line, Born2beroot |
+| 🟢 **Level 2** | ✅ | so_long, push_swap, minitalk |
+| 🟢 **Level 3** | ✅ | minishell, philosopher |
+| 🟢 **Level 4** | ✅ | cube3D, NetPractice, CPP Modules |
+| ⚫ **Level 5** | 🔄 | En cours... |
+| ⚫ **Level 6** | 🔄 | Fin du Common Core |
 
 </div>
 
