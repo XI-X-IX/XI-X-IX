@@ -5,23 +5,24 @@
 ---
 
 <p align="center">
-  <em>Développeur passionné, explorateur de l'informatique bas niveau, de l'intelligence artificielle, de la cybersécurité et des mondes open source.</em>
+  <em>Développeuse passionnée, exploratrice du code bas niveau, de la cybersécurité, du machine learning et des systèmes UNIX.</em>
 </p>
 
-___
+---
 
 <br><br>
 
-## 👨‍💻 À propos de moi
+## 👩‍💻 À propos de moi
 
 <div align="center">
 
 <br>
 
-Je m'appelle **AXDS**, formé à l'école [42](https://42lausanne.ch/), je développe des projets C, Bash, web, systèmes UNIX, et algorithmes.  
-J’ai un fort intérêt pour le **Machine Learning**, la **cybersécurité**, l’**optimisation logicielle**, et la **finance**.  
-Plus d'info sur mon site :  
-[axds.ch](https://axds.ch)  
+Je m'appelle **AXDS**, étudiante à l'école [42 Lausanne](https://42lausanne.ch/), où j’explore le développement système, l’algorithmie et la programmation bas niveau en **C**.  
+Je développe également des projets orientés **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.  
+
+💡 J’aime comprendre le fonctionnement interne des systèmes et repousser mes limites techniques.  
+🔗 Plus d'infos sur mon site : [axds.ch](https://axds.ch)
 
 </div>
 
@@ -34,12 +35,11 @@ Plus d'info sur mon site :
   
 <br>
   
-🛠 Un **stage** ou **emploi** en tant que Développeur Junior.  
+🛠 Un **stage** ou **premier emploi** en tant que **Développeuse Junior / Cybersécurité / Logiciel Système**  
 🌍 Localisation : Suisse / Europe / Remote-friendly  
-📅 Disponible de suite  
+📅 Disponible dès maintenant  
 
 [![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:a.dos.santos@live.fr)
-
 
 </div>
 
@@ -55,19 +55,20 @@ Plus d'info sur mon site :
 
 | Projet | Description | Stack |
 |--------|-------------|------------------|
-| [axds.ch](https://axds.ch) | Site web moderne et reactif avec animations fluides | TypeScript - CSS |
+| [network_scan](https://github.com/XI-X-IX/network_scan) | Scanner réseau en ligne de commande : détection d'hôtes, ports et protocoles | Python - Sockets - Threads |
+| [axds.ch](https://axds.ch) | Site web moderne et réactif avec animations fluides | TypeScript - CSS |
 | [Bot de Trading](https://github.com/XI-X-IX/DemoXbot) | Bot automatisé pour le trading de cryptomonnaies | Python |
-| [Push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire, et algo rapide | C |
-| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créés à partir de zéro | C - mlx |
-
+| [push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire et algo rapide | C |
+| [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créé à partir de zéro | C - mlx |
 
 </div>
 
 <br>
 
 <div align="center">
-  
+
 ![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-white?style=flat&logo=gnu-bash)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat&logo=git)
@@ -77,7 +78,8 @@ Plus d'info sur mon site :
 ![CSS](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-004B87?style=flat)
 
 </div>
 
@@ -91,8 +93,8 @@ Plus d'info sur mon site :
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/alexandra-dos-santos-381a40278/))  
-📧 [axds.contact@gmail.com](axds.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alexandra-dos-santos-381a40278/)  
+📧 [axds.contact@gmail.com](mailto:axds.contact@gmail.com)
 
 </div>
 
@@ -147,8 +149,6 @@ Plus d'info sur mon site :
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=42&logoColor=white" />
 <br><br>
 
-
-
 | Module | Status | Score |
 |:------:|:------:|:-----:|
 | Exam0 | ✅ | 30% |
@@ -162,26 +162,21 @@ Plus d'info sur mon site :
 </div>
 <br>
 
-
 ---
 
-## 🎓 Join School 42
+## 🧠 Orientation Cybersécurité
 ---
-<br>
+
 <p align="center">
-  <b>Explore the innovative approach to education at School 42 and join a global community of passionate learners.</b><br><br>
-  <i>* Please note that this is not an official representation of School 42 but a personal recommendation.</i>
-  <br><br><br><br>
-  <a href="https://42lausanne.ch/" target="_blank"><img src="https://42lausanne.ch/wp-content/uploads/2021/01/42_logo.svg" alt="Ecole 42 Logo" width="200"></a>
+  <em>Passionnée par la compréhension des systèmes, l’analyse réseau et la sécurité applicative.</em><br>
+  <b>Projets à venir :</b> développement d’outils d’analyse réseau, détection d’intrusions et automatisation de pentests légaux.
 </p>
-<br>
 
 ---
 
 <div align="center">
 
 *Made with ❤️ from 42 Lausanne*  
-<sub>*Part of my journey at École 42 - Exploring the depths of C programming*</sub>
+<sub>*Part of my journey — exploring systems, networks and cybersecurity*</sub>
 
 </div>
-
