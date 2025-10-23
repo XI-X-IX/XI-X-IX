@@ -61,6 +61,8 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 | [Bot de Trading](https://github.com/XI-X-IX/DemoXbot) | Bot automatisé pour le trading de cryptomonnaies | Python |
 | [push_swap](https://github.com/XI-X-IX/push_swap) | Tri optimisé d'une pile avec parsing, gestion mémoire et algo rapide | C |
 | [so_long](https://github.com/XI-X-IX/so_long) | Mini-jeu 2D créé à partir de zéro | C - mlx |
+| [Inception](https://github.com/XI-X-IX/Inception) | Infrastructure Docker complète : Nginx, WordPress, MariaDB, configuration réseau et volumes | Docker · Nginx · WordPress · MariaDB · Bash |
+
 
 </div>
 
