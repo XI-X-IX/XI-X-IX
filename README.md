@@ -19,7 +19,7 @@
 <br>
 
 Étudiante à l'école [42 Lausanne](https://42lausanne.ch/), j’explore le développement système, l’algorithmie et la programmation bas niveau en **C/C++**.  
-Je développe également des projets orientés **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.  
+Je développe également des projets orientés **backend**, **DevOps**, **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.  
 
 💡 J’aime comprendre le fonctionnement interne des systèmes et repousser mes limites techniques.  
 
@@ -36,7 +36,7 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
   
 <br>
   
-🛠 Un **stage** ou **premier emploi** en tant que **Développeuse Junior / Cybersécurité / Logiciel Système**  
+🛠 Un **stage** ou **premier emploi** en tant que **Développeuse Junior / DevOps / SRE / DevSecOps**  
 🌍 Localisation : Suisse / Europe / Remote-friendly  
 📅 Disponible dès maintenant  
 
@@ -141,7 +141,7 @@ Je développe également des projets orientés **cybersécurité**, **intelligen
 
 ### 🔐 Spécialisation à venir — **Cybersécurité & Réseaux**
 <em>Après le Common Core, je souhaite me spécialiser dans la cybersécurité, l’analyse réseau et la protection des systèmes.</em><br>
-<b>Objectif :</b> poursuivre jusqu’au niveau master avec un focus sur le pentesting, la sécurité applicative et l’automatisation d’outils réseau.
+<b>Objectif :</b> poursuivre jusqu’au niveau master avec un focus sur le pentesting, la sécurité applicative et l’automatisation d’outils.
 
 </div>
 
