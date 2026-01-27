@@ -36,7 +36,7 @@ Je développe également des projets orientés **backend**, **DevOps**, **cybers
   
 <br>
   
-🛠 Un **stage** ou **premier emploi** en tant que **Développeuse Junior / DevOps / SRE / DevSecOps**  
+🛠 Un **stage** ou **premier emploi** en tant que **Développeur Junior / DevOps / SRE / DevSecOps**  
 🌍 Localisation : Suisse / Europe / Remote-friendly  
 📅 Disponible dès maintenant  
 
