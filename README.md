@@ -36,8 +36,8 @@ Je développe également des projets orientés **backend**, **DevOps**, **cybers
   
 <br>
   
-🛠 Un **stage** ou **premier emploi** en tant que **Développeur Junior / DevOps / SRE / DevSecOps**  
-🌍 Localisation : Suisse / Europe / Remote-friendly  
+🛠 Un **stage** ou **premier emploi** en tant que **Développeur Junior / Backend / DevOps / SRE / DevSecOps**  
+🌍 Localisation : Suisse / Europe
 📅 Disponible dès maintenant  
 
 [![Hire me](https://img.shields.io/badge/-Hire%20me-green?style=for-the-badge)](mailto:a.dos.santos@live.fr)
