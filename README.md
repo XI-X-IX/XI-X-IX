@@ -48,6 +48,21 @@ Je développe également des projets orientés **backend**, **DevOps**, **cybers
 
 ---
 
+## 📫 Me contacter
+
+<div align="center">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/axds/)  
+📧 [contact@axds.ch](mailto:axds.contact@gmail.com)
+
+</div>
+
+<br><br>
+
+---
+
 ## 🚀 Projets techniques clés
 
 <div align="center">
@@ -90,20 +105,6 @@ Je développe également des projets orientés **backend**, **DevOps**, **cybers
 
 ---
 
-## 📫 Me contacter
-
-<div align="center">
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/axds/)  
-📧 [contact@axds.ch](mailto:axds.contact@gmail.com)
-
-</div>
-
-<br><br>
-
----
 
 ## 🎓 42 School Progress  
 
