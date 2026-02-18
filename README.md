@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_baniere.png" alt="Cover GIF">
+  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_baniere.png" alt="Cover GIF">  
 </p>
 
 ---
