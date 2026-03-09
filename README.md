@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/XI-X-IX/XI-X-IX/blob/main/axds_baniere.png" alt="Cover GIF">  
+  <a href="https://tryhackme.com/p/axds.">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png" />
+  </a>
 </p>
 
 ---
