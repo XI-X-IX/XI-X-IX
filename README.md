@@ -1,7 +1,9 @@
 <p align="center">
   <a href="https://tryhackme.com/p/axds.">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png"/>
   </a>
+  <br>
+  <a href="https://tryhackme.com/p/axds.">TryHackMe</a>
 </p>
 
 ---
