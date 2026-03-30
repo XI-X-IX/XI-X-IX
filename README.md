@@ -125,7 +125,7 @@ Je développe également des projets orientés **backend**, **DevOps**, **cybers
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Progress-83%25-blue?style=for-the-badge&logo=42&logoColor=white" />
+  <img src="https://img.shields.io/badge/Progress-95%25-blue?style=for-the-badge&logo=42&logoColor=white" />
 </p>
 
 <div align="center">
