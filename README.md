@@ -21,7 +21,7 @@ En parallèle, je travaille sur des projets **backend**, **DevOps**, **cyberséc
 -->
 
 <a href="https://tryhackme.com/p/axds.">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png" alt="TryHackMe"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png?v=3" alt="TryHackMe"/>
 </a>
 
 
