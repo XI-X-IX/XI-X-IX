@@ -2,39 +2,28 @@
 
 <img src="axds_banier_new.png" alt="AXDS" width="100%" />
 
-
 <br>
-
 
 Étudiante à **[42 Lausanne](https://42lausanne.ch/)**, je construis mon expertise autour du **développement système**, de l'**algorithmie** et de la **programmation bas niveau** en **C / C++**.  
 En parallèle, je travaille sur des projets **backend**, **DevOps**, **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.
 
-💡 Ce qui me motive : comprendre comment les systèmes fonctionnent *réellement* — de la gestion mémoire manuelle aux pipelines CI/CD multi-étages.
+Motivation : comprendre comment les systèmes fonctionnent *réellement* — de la gestion mémoire manuelle aux pipelines CI/CD multi-étages.
 
-🔗 Site personnel & portfolio : **[axds.ch](https://axds.ch)**
-
-<!--
-[![42 Lausanne](https://img.shields.io/badge/42-Lausanne-000000?style=for-the-badge&logo=42&logoColor=white)](https://42lausanne.ch/)
-[![Website](https://img.shields.io/badge/🌐-axds.ch-E83E8C?style=for-the-badge)](https://axds.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axds/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axds.contact@gmail.com)
--->
+Site personnel & portfolio : **[axds.ch](https://axds.ch)**
 
 <a href="https://tryhackme.com/p/axds.">
   <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png?v=3" alt="TryHackMe"/>
 </a>
 
-
 <br><br>
 
 ---
 
-## 🎯 En recherche active de stage
+## En recherche active de stage
 
 **Développeur Junior / Backend / DevOps / SRE / IA**   
-📅 Disponible immédiatement  
-📍 Suisse · Europe · Remote  
-
+Disponible immédiatement  
+Suisse · Europe · Remote  
 
 <a href="mailto:axds.contact@gmail.com"><img src="https://img.shields.io/badge/-Me%20contacter-00C853?style=for-the-badge" alt="Hire me"/></a>
 
@@ -43,51 +32,51 @@ En parallèle, je travaille sur des projets **backend**, **DevOps**, **cyberséc
 
 ---
 
-## 🚀 Projets
+## Projets
 
-### 🛡️ Cybersécurité
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[Sec_audit](https://github.com/XI-X-IX/Sec_audit)** | Auditeur SaaS automatisé — headers HTTP, SSL/TLS, scan de ports, endpoints sensibles, cookies. Rapport JSON + PDF avec score /100 | `Python` · `reportlab` |
-| **[network_scan](https://github.com/XI-X-IX/network_scan)** | Scanner réseau en ligne de commande — détection d'hôtes, ports et protocoles | `Python` · `Sockets` · `Threads` |
-
-### ⚙️ DevOps & Infrastructure
+### Cybersécurité
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **[Inception](https://github.com/XI-X-IX/Inception)** | Infrastructure Docker complète — NGINX, WordPress, MariaDB, Redis, Prometheus/Grafana, FTP | `Docker` · `Compose` · `Bash` |
-| **[DevOps](https://github.com/XI-X-IX/DevOps)** | Pipeline DevSecOps bout-en-bout — SAST (Bandit), scans dépendances (Safety), secrets (TruffleHog), Trivy, Terraform, K8s | `Python` · `Flask` · `GitHub Actions` · `Terraform` · `Kubernetes` |
+| **[Audit](https://github.com/XI-X-IX/Audit)** | Auditeur SaaS automatisé — headers HTTP, SSL/TLS, scan de ports, endpoints sensibles, cookies. Rapport JSON + PDF avec score /100 | Python · reportlab |
+| **[network_scan](https://github.com/XI-X-IX/network_scan)** | Scanner réseau en ligne de commande — détection d'hôtes, ports et protocoles | Python · Sockets · Threads |
 
-### 🤖 Intelligence artificielle
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[LinearRegression](https://github.com/XI-X-IX/LinearRegression)** | Régression linéaire *from scratch* avec descente de gradient — métriques MAE / RMSE / R² et monitoring | `Python` · `matplotlib` |
-| **[CrewAI Agents](https://github.com/XI-X-IX/CrewAI)** | 3 équipes d'agents IA *100 % locales* (Ollama) : création de contenu, assistant e-commerce, détection de produits winners | `Python` · `CrewAI` · `Ollama` |
-
-### 🖥️ Systèmes bas niveau (42)
+### DevOps & Infrastructure
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **[push_swap](https://github.com/XI-X-IX/push_swap)** | Tri d'une pile avec parsing, gestion mémoire manuelle et algorithme optimisé | `C` |
-| **[so_long](https://github.com/XI-X-IX/so_long)** | Mini-jeu 2D créé *from scratch* avec la MiniLibX | `C` · `mlx` |
-| **[python_piscine](https://github.com/XI-X-IX/python_piscine)** | Piscine Python 42 — de la syntaxe aux objets, en passant par les exceptions | `Python` |
+| **[Inception](https://github.com/XI-X-IX/Inception)** | Infrastructure Docker complète — NGINX, WordPress, MariaDB, Redis, Prometheus/Grafana, FTP | Docker · Compose · Bash |
+| **[SecureCI](https://github.com/XI-X-IX/SecureCI)** | Pipeline DevSecOps bout-en-bout — SAST (Bandit), scans dépendances (Safety), secrets (TruffleHog), Trivy, Terraform, K8s | Python · Flask · GitHub Actions · Terraform · Kubernetes |
 
-### 🌐 Web & automatisation
+### Intelligence artificielle
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| **[axds.ch](https://axds.ch)** | Portfolio personnel — design moderne, animations fluides ([repo](https://github.com/XI-X-IX/http)) | `Next.js` · `TypeScript` · `Tailwind` |
-| **[DemoXbot](https://github.com/XI-X-IX/DemoXbot)** | Bot de trading crypto automatisé | `Python` |
-| **[Trading / AlgoTraderX](https://github.com/XI-X-IX/Trading)** | Suite de bots de trading — RSI, MACD, Bollinger Bands et détection de nouveaux listings Binance | `Python` · `python-binance` |
-| **[intern-bot](https://github.com/XI-X-IX/intern-bot)** | Bot Telegram de veille d'offres d'emploi Suisse Romande (scraping + filtrage par mots-clés) | `Python` · `BeautifulSoup` |
+| **[LinearRegression](https://github.com/XI-X-IX/LinearRegression)** | Régression linéaire *from scratch* avec descente de gradient — métriques MAE / RMSE / R² et monitoring | Python · matplotlib |
+| **[CrewAI Agents](https://github.com/XI-X-IX/CrewAI)** | 3 équipes d'agents IA *100 % locales* (Ollama) : création de contenu, assistant e-commerce, détection de produits winners | Python · CrewAI · Ollama |
+
+### Systèmes bas niveau (42)
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **[push_swap](https://github.com/XI-X-IX/push_swap)** | Tri d'une pile avec parsing, gestion mémoire manuelle et algorithme optimisé | C |
+| **[so_long](https://github.com/XI-X-IX/so_long)** | Mini-jeu 2D créé *from scratch* avec la MiniLibX | C · mlx |
+| **[PythonPiscine](https://github.com/XI-X-IX/PythonPiscine)** | Piscine Python 42 — de la syntaxe aux objets, en passant par les exceptions | Python |
+
+### Web & automatisation
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **[axds.ch](https://axds.ch)** | Portfolio personnel — design moderne, animations fluides ([repo](https://github.com/XI-X-IX/http)) | Next.js · TypeScript · Tailwind |
+| **[Binance](https://github.com/XI-X-IX/Trading)** | Suite de bots de trading crypto — RSI, MACD, Bollinger Bands et détection de nouveaux listings Binance | Python · python-binance |
+| **[Trading / AlgoTraderX](https://github.com/XI-X-IX/Trading)** | Framework de trading multi-stratégies (Freqtrade, MetaTrader5, Binance) | Python · Freqtrade · MQL5 |
+| **[intern-bot](https://github.com/XI-X-IX/intern-bot)** | Bot Telegram de veille d'offres d'emploi Suisse Romande (scraping + filtrage par mots-clés) | Python · BeautifulSoup |
 
 <br><br>
 
 ---
 
-## 🛠️ Stack technique
+## Stack technique
 
 <div align="center">
 
@@ -112,7 +101,7 @@ En parallèle, je travaille sur des projets **backend**, **DevOps**, **cyberséc
 
 ---
 
-## 🎓 42 Lausanne — Progression
+## 42 Lausanne — Progression
 
 <div align="center">
 
@@ -121,7 +110,7 @@ En parallèle, je travaille sur des projets **backend**, **DevOps**, **cyberséc
 
 <br>
 
-### 🔐 Spécialisations en cours — **IA, Data & Cybersécurité**
+### Spécialisations en cours — **IA, Data & Cybersécurité**
 
 Le Common Core est terminé, et je suis déjà en spécialisations **IA/Data** et **cybersécurité**.  
 Focus actuel : **machine learning**, **data engineering**, **sécurité applicative** et **automatisation d'outils**.
@@ -136,17 +125,13 @@ Focus actuel : **machine learning**, **data engineering**, **sécurité applicat
 
 <br><br>
 
-
-
 </div>
-
-
 
 ---
 
 <div align="center">
 
-*Made with ❤️ from 42 Lausanne*
+*Made with love from 42 Lausanne*
 <br>
 <sub>*Exploring systems, networks and cybersecurity — one project at a time.*</sub>
 
