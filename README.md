@@ -7,7 +7,7 @@
 **Je cherche un stage** — Développeuse Junior · Backend · DevOps / SRE · IA<br>
 Disponible immédiatement · Suisse romande, Europe ou remote · Français / English
 
-<a href="mailto:axds.contact@gmail.com"><img src="https://img.shields.io/badge/Email-axds.contact%40gmail.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/Email-contact%40axds.ch-FF2E97?style=for-the-badge" alt="Email"/></a>
 <a href="https://axds.ch"><img src="https://img.shields.io/badge/Portfolio-axds.ch-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://tryhackme.com/p/axds."><img src="https://img.shields.io/badge/TryHackMe-axds.-7B2FFF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 
@@ -28,7 +28,7 @@ Disponible immédiatement · Suisse romande, Europe ou remote · Français / Eng
 
 Student at **42 Lausanne** (Common Core completed, level 11/21, now specialising in **AI/Data** and **cybersecurity**).
 Strong low-level foundations in **C/C++**, hands-on projects in **DevSecOps CI/CD**, **Docker infrastructure & monitoring**, **web security auditing** and **local AI agents**.
-**Looking for an internship** (Junior / Backend / DevOps / SRE / AI) — available now, Switzerland, Europe or remote. Contact: **axds.contact@gmail.com**
+**Looking for an internship** (Junior / Backend / DevOps / SRE / AI) — available now, Switzerland, Europe or remote. Contact: **contact@axds.ch**
 
 </details>
 
@@ -108,6 +108,6 @@ Trois équipes d'**agents IA exécutées en local** (Ollama, aucune donnée envo
 
 <div align="center">
 
-**Un projet, une offre de stage, une question ?** → [axds.contact@gmail.com](mailto:axds.contact@gmail.com) · [axds.ch](https://axds.ch)
+**Un projet, une offre de stage, une question ?** → [contact@axds.ch](mailto:contact@axds.ch) · [axds.ch](https://axds.ch)
 
 </div>
