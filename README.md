@@ -1,138 +1,157 @@
 <div align="center">
 
-<img src="axds_banier_new.png" alt="AXDS" width="100%" />
+<a href="https://axds.ch"><img src="axds_banner.png" alt="Alexandra Dos Santos — Software engineer · IA · Data · DevOps · Cybersécurité" width="100%" /></a>
 
 <br>
 
-Étudiante à **[42 Lausanne](https://42lausanne.ch/)**, je construis mon expertise autour du **développement système**, de l'**algorithmie** et de la **programmation bas niveau** en **C / C++**.  
-En parallèle, je travaille sur des projets **backend**, **DevOps**, **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.
-
-Motivation : comprendre comment les systèmes fonctionnent *réellement* — de la gestion mémoire manuelle aux pipelines CI/CD multi-étages.
-
-Site personnel & portfolio : **[axds.ch](https://axds.ch)**
-
-<a href="https://tryhackme.com/p/axds.">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/axds..png?v=3" alt="TryHackMe"/>
-</a>
-
-<br><br>
-
----
-
-## En recherche active de stage
-
-**Développeur Junior / Backend / DevOps / SRE / IA**   
-Disponible immédiatement  
-Suisse · Europe · Remote  
-
-<a href="mailto:axds.contact@gmail.com"><img src="https://img.shields.io/badge/-Me%20contacter-00C853?style=for-the-badge" alt="Hire me"/></a>
+<a href="https://axds.ch"><img src="https://img.shields.io/badge/axds.ch-0a0908?style=for-the-badge&logo=googlechrome&logoColor=c9a45c" alt="axds.ch" /></a>
+<a href="https://www.linkedin.com/in/axds"><img src="https://img.shields.io/badge/LinkedIn-0a0908?style=for-the-badge&logo=linkedin&logoColor=c9a45c" alt="LinkedIn" /></a>
+<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/contact@axds.ch-0a0908?style=for-the-badge&logo=maildotru&logoColor=c9a45c" alt="Email" /></a>
 
 </div>
-<br><br>
+
+<br>
+
+<sub>`[ À PROPOS · 01 ]`</sub>
+
+## De la vente *à la tech.*
+
+Développeuse à **[42 Lausanne](https://42lausanne.ch/)**, passionnée par les systèmes exigeants : **intelligence artificielle**, **ingénierie de la donnée**, **automatisation** et **sécurité**.
+
+Huit ans en environnements exigeants — Assistant Manager au Southbank Centre (Londres), Sales Expert chez Philip Morris — m'ont formée à la rigueur opérationnelle. Depuis 2024, je transforme cette exigence en ingénierie. Je suis attirée par le bas niveau — C, systèmes, réseau — parce qu'il force à comprendre **ce qui se passe vraiment sous les abstractions**.
+
+> *« Il n'est jamais trop tard pour devenir qui l'on aurait pu être. »*
+
+<a href="https://tryhackme.com/p/axds."><img src="https://tryhackme-badges.s3.amazonaws.com/axds..png?v=3" alt="TryHackMe" /></a>
+
+<br>
 
 ---
 
-## Projets
+<sub>`[ DOMAINES · 02 ]`</sub>
 
-### Cybersécurité
+## Quatre axes
+
+| | Domaine | Approche |
+|:--|:--|:--|
+| `01` | **Intelligence Artificielle** | Machine learning, modèles prédictifs, fondamentaux mathématiques — de la régression à l'apprentissage profond. |
+| `02` | **Data Engineering** | Pipelines, parsing, stockage, visualisation — transformer la donnée brute en information exploitable. |
+| `03` | **DevOps** | Docker, orchestration, CI/CD, infrastructure as code — industrialiser le déploiement et la fiabilité. |
+| `04` | **Cybersécurité** | Hardening système, analyse de vulnérabilités, architecture robuste. |
+
+<br>
+
+---
+
+<sub>`[ PROJETS · 03 ]`</sub>
+
+## Sélection
+
+| Projet | Description | Domaine | Stack |
+|:--|:--|:--|:--|
+| **[ft_linear_regression](https://github.com/XI-X-IX/LinearRegression)** | Régression linéaire *from scratch* — descente de gradient maison, normalisation, métriques MAE / RMSE / R² | `IA` `Data` | Python · NumPy · Matplotlib |
+| **[CrewAI Agents](https://github.com/XI-X-IX/CrewAI)** | 3 équipes d'agents IA *100 % locales* (Ollama + Mistral 7B) — contenu, e-commerce, product hunting | `IA` | Python · CrewAI · Ollama · LangChain |
+| **[SecureCI](https://github.com/XI-X-IX/SecureCI)** | Pipeline DevSecOps de bout en bout — Bandit, Safety, TruffleHog, Trivy, Terraform, Kubernetes | `DevOps` `Cyber` | GitHub Actions · Terraform · K8s |
+| **[ft_transcendence](https://github.com/XI-X-IX/ft_transcendence)** | Plateforme web multijoueur temps réel — auth, tournois, chat, OAuth2, WebSocket | `Web` `DevOps` | TypeScript · NestJS · Prisma · Docker |
+| **[Minishell](https://github.com/XI-X-IX/minishell)** | Shell UNIX en C — pipes, redirections, variables d'environnement, signaux, heredoc | `Systèmes` | C · Unix |
+
+<details>
+<summary><b>Tous les projets</b></summary>
+
+<br>
+
+**IA · Data**
 
 | Projet | Description | Stack |
-|--------|-------------|-------|
-| **[Audit](https://github.com/XI-X-IX/Audit)** | Auditeur SaaS automatisé — headers HTTP, SSL/TLS, scan de ports, endpoints sensibles, cookies. Rapport JSON + PDF avec score /100 | Python · reportlab |
-| **[network_scan](https://github.com/XI-X-IX/network_scan)** | Scanner réseau en ligne de commande — détection d'hôtes, ports et protocoles | Python · Sockets · Threads |
-
-### DevOps & Infrastructure
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[Inception](https://github.com/XI-X-IX/Inception)** | Infrastructure Docker complète — NGINX, WordPress, MariaDB, Redis, Prometheus/Grafana, FTP | Docker · Compose · Bash |
-| **[SecureCI](https://github.com/XI-X-IX/SecureCI)** | Pipeline DevSecOps bout-en-bout — SAST (Bandit), scans dépendances (Safety), secrets (TruffleHog), Trivy, Terraform, K8s | Python · Flask · GitHub Actions · Terraform · Kubernetes |
-
-### Intelligence artificielle
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[LinearRegression](https://github.com/XI-X-IX/LinearRegression)** | Régression linéaire *from scratch* avec descente de gradient — métriques MAE / RMSE / R² et monitoring | Python · matplotlib |
-| **[CrewAI Agents](https://github.com/XI-X-IX/CrewAI)** | 3 équipes d'agents IA *100 % locales* (Ollama) : création de contenu, assistant e-commerce, détection de produits winners | Python · CrewAI · Ollama |
-
-### Systèmes bas niveau (42)
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| **[push_swap](https://github.com/XI-X-IX/push_swap)** | Tri d'une pile avec parsing, gestion mémoire manuelle et algorithme optimisé | C |
-| **[so_long](https://github.com/XI-X-IX/so_long)** | Mini-jeu 2D créé *from scratch* avec la MiniLibX | C · mlx |
+|:--|:--|:--|
+| **[Trading](https://github.com/XI-X-IX/Trading)** | Bot crypto Freqtrade avec stratégie DCA validée par backtests 2022–2024, bots Binance (RSI, MACD, Bollinger), déployé en Docker derrière Cloudflare Tunnel | Python · Freqtrade · Docker |
+| **[intern-bot](https://github.com/XI-X-IX/intern-bot)** | Bot Telegram de veille d'offres d'emploi en Suisse romande — scraping et filtrage | Python · BeautifulSoup |
 | **[PythonPiscine](https://github.com/XI-X-IX/PythonPiscine)** | Piscine Python 42 — de la syntaxe aux objets, en passant par les exceptions | Python |
 
-### Web & automatisation
+**DevOps · Cyber**
 
 | Projet | Description | Stack |
-|--------|-------------|-------|
-| **[axds.ch](https://axds.ch)** | Portfolio personnel — design moderne, animations fluides ([repo](https://github.com/XI-X-IX/http)) | Next.js · TypeScript · Tailwind |
-| **[Binance](https://github.com/XI-X-IX/Trading)** | Suite de bots de trading crypto — RSI, MACD, Bollinger Bands et détection de nouveaux listings Binance | Python · python-binance |
-| **[Trading / AlgoTraderX](https://github.com/XI-X-IX/Trading)** | Framework de trading multi-stratégies (Freqtrade, MetaTrader5, Binance) | Python · Freqtrade · MQL5 |
-| **[intern-bot](https://github.com/XI-X-IX/intern-bot)** | Bot Telegram de veille d'offres d'emploi Suisse Romande (scraping + filtrage par mots-clés) | Python · BeautifulSoup |
+|:--|:--|:--|
+| **[Inception](https://github.com/XI-X-IX/Inception)** | Infrastructure web conteneurisée — NGINX, WordPress, MariaDB, Redis, Prometheus / Grafana, FTP | Docker · Compose · Bash |
+| **[Audit](https://github.com/XI-X-IX/Audit)** | Auditeur automatisé — headers HTTP, SSL/TLS, ports, endpoints sensibles, cookies. Rapport JSON + PDF noté /100 | Python · reportlab |
+| **[network_scan](https://github.com/XI-X-IX/network_scan)** | Scanner réseau CLI — détection d'hôtes, ports et protocoles | Python · Sockets · Threads |
+| **[Born2beRoot](https://github.com/XI-X-IX/Born2beRoot)** | VM Debian durcie — SSH, UFW, politiques de mot de passe, audit et journalisation | Debian · Shell |
 
-<br><br>
+**Systèmes**
+
+| Projet | Description | Stack |
+|:--|:--|:--|
+| **[ft_irc](https://github.com/XI-X-IX/ft_irc)** | Serveur IRC conforme RFC 1459 — sockets, `poll()`, multi-clients | C++ |
+| **[cub3d](https://github.com/XI-X-IX/cub3d)** | Moteur 3D par raycasting, inspiré de Wolfenstein 3D | C · MiniLibX |
+| **[push_swap](https://github.com/XI-X-IX/push_swap)** | Tri optimal sur deux piles avec un jeu d'opérations restreint | C |
+| **[so_long](https://github.com/XI-X-IX/so_long)** | Mini-jeu 2D *from scratch* | C · MiniLibX |
+
+**Web**
+
+| Projet | Description | Stack |
+|:--|:--|:--|
+| **[axds.ch](https://axds.ch)** | Portfolio personnel — direction artistique éditoriale, animations fluides, export statique ([repo](https://github.com/XI-X-IX/axds.ch)) | Next.js · TypeScript · Tailwind |
+
+</details>
+
+<br>
 
 ---
 
-## Stack technique
+<sub>`[ PARCOURS · 04 ]`</sub>
+
+## Trajectoire
+
+| Période | Étape | |
+|:--|:--|:--|
+| `2015 – 2023` | **8 ans dans la vente** — Southbank Centre · Philip Morris International · JTI | Paris · Londres · Lausanne |
+| `2024 – 2026` | **Cursus 42 Lausanne** — programmation système C / C++, DevOps, réseau, Linux | Common Core terminé |
+| `2025 – 2026` | **Certifications TryHackMe** — DevSecOps · AI Security | Top 3 % |
+| `2026` | **Stage de fin de cursus** — 6 mois en IA, Data, DevOps ou Cybersécurité | ◆ *Recherche active* |
+| `2026 – 2029` | **Master en Informatique** — spécialisation IA, Data et Cybersécurité | Suisse |
+| `2029 +` | **Ingénieure Software · Security · Data** | Europe |
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-<br>
-![Nmap](https://img.shields.io/badge/Nmap-004B87?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+<img src="https://img.shields.io/badge/Common%20Core-100%25-0a0908?style=for-the-badge&logo=42&logoColor=c9a45c&labelColor=1b1814" alt="Common Core 100%" />
+<img src="https://img.shields.io/badge/42%20Advanced-Niveau%2011%20%2F%2021-0a0908?style=for-the-badge&logo=42&logoColor=c9a45c&labelColor=1b1814" alt="42 Advanced niveau 11/21" />
 
 </div>
 
+<br>
+
 ---
 
-## 42 Lausanne — Progression
+<sub>`[ STACK · 05 ]`</sub>
+
+## Outils
+
+| | |
+|:--|:--|
+| **IA · Data** | ![Python](https://img.shields.io/badge/Python-12100e?style=flat-square&logo=python&logoColor=c9a45c) ![NumPy](https://img.shields.io/badge/NumPy-12100e?style=flat-square&logo=numpy&logoColor=c9a45c) ![Pandas](https://img.shields.io/badge/Pandas-12100e?style=flat-square&logo=pandas&logoColor=c9a45c) ![LangChain](https://img.shields.io/badge/LangChain-12100e?style=flat-square&logo=langchain&logoColor=c9a45c) ![Ollama](https://img.shields.io/badge/Ollama-12100e?style=flat-square&logo=ollama&logoColor=c9a45c) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-12100e?style=flat-square&logo=docker&logoColor=c9a45c) ![Kubernetes](https://img.shields.io/badge/Kubernetes-12100e?style=flat-square&logo=kubernetes&logoColor=c9a45c) ![Terraform](https://img.shields.io/badge/Terraform-12100e?style=flat-square&logo=terraform&logoColor=c9a45c) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-12100e?style=flat-square&logo=githubactions&logoColor=c9a45c) ![NGINX](https://img.shields.io/badge/NGINX-12100e?style=flat-square&logo=nginx&logoColor=c9a45c) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12100e?style=flat-square&logo=postgresql&logoColor=c9a45c) |
+| **Systèmes** | ![C](https://img.shields.io/badge/C-12100e?style=flat-square&logo=c&logoColor=c9a45c) ![C++](https://img.shields.io/badge/C%2B%2B-12100e?style=flat-square&logo=cplusplus&logoColor=c9a45c) ![Linux](https://img.shields.io/badge/Linux-12100e?style=flat-square&logo=linux&logoColor=c9a45c) ![Bash](https://img.shields.io/badge/Bash-12100e?style=flat-square&logo=gnubash&logoColor=c9a45c) ![Git](https://img.shields.io/badge/Git-12100e?style=flat-square&logo=git&logoColor=c9a45c) |
+| **Cyber** | ![Trivy](https://img.shields.io/badge/Trivy-12100e?style=flat-square&logo=aqua&logoColor=c9a45c) ![OWASP](https://img.shields.io/badge/OWASP-12100e?style=flat-square&logo=owasp&logoColor=c9a45c) ![Nmap](https://img.shields.io/badge/Nmap-12100e?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-12100e?style=flat-square&logo=wireshark&logoColor=c9a45c) |
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-12100e?style=flat-square&logo=typescript&logoColor=c9a45c) ![Next.js](https://img.shields.io/badge/Next.js-12100e?style=flat-square&logo=nextdotjs&logoColor=c9a45c) ![NestJS](https://img.shields.io/badge/NestJS-12100e?style=flat-square&logo=nestjs&logoColor=c9a45c) ![Prisma](https://img.shields.io/badge/Prisma-12100e?style=flat-square&logo=prisma&logoColor=c9a45c) |
+
+<br>
+
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Common%20Core-100%25-1E2024?style=for-the-badge&logo=42&logoColor=white" />
-<img src="https://img.shields.io/badge/42%20Advanced-Niveau%2011%20%2F%2021-1E2024?style=for-the-badge&logo=42&logoColor=white" />
+<sub>`[ CONTACT · 06 ]`</sub>
+
+### En recherche d'un stage de 6 mois
+**IA · Data · DevOps · Cybersécurité** — Suisse · Europe · Remote
 
 <br>
 
-### Spécialisations en cours — **IA, Data & Cybersécurité**
-
-Le Common Core est terminé, et je suis déjà en spécialisations **IA/Data** et **cybersécurité**.  
-Focus actuel : **machine learning**, **data engineering**, **sécurité applicative** et **automatisation d'outils**.
-
-<br>
-
-<img src="https://img.shields.io/badge/Progression%20vers%20Niveau%2021-52%25-00C853?style=for-the-badge" />
-
-<br>
-
-███████████░░░░░░░░░░  **11 / 21**
+<a href="https://axds.ch"><img src="https://img.shields.io/badge/Voir%20le%20portfolio%20%E2%86%92-0a0908?style=for-the-badge" alt="Voir le portfolio" /></a>
+<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/Me%20contacter%20%E2%86%92-c9a45c?style=for-the-badge" alt="Me contacter" /></a>
 
 <br><br>
 
-</div>
-
----
-
-<div align="center">
-
-*Made with love from 42 Lausanne*
-<br>
-<sub>*Exploring systems, networks and cybersecurity — one project at a time.*</sub>
+<sub>AXDS.CH · LAUSANNE · ÉDITION 2026</sub>
 
 </div>
