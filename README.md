@@ -4,9 +4,9 @@
 
 <br>
 
-<a href="https://axds.ch"><img src="https://img.shields.io/badge/axds.ch-0a0908?style=for-the-badge&logo=googlechrome&logoColor=c9a45c" alt="axds.ch" /></a>
-<a href="https://www.linkedin.com/in/axds"><img src="https://img.shields.io/badge/LinkedIn-0a0908?style=for-the-badge&logo=linkedin&logoColor=c9a45c" alt="LinkedIn" /></a>
-<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/contact@axds.ch-0a0908?style=for-the-badge&logo=maildotru&logoColor=c9a45c" alt="Email" /></a>
+<a href="https://axds.ch"><img src="https://img.shields.io/badge/axds.ch-0d0f22?style=for-the-badge&logo=googlechrome&logoColor=22b8ff" alt="axds.ch" /></a>
+<a href="https://www.linkedin.com/in/axds"><img src="https://img.shields.io/badge/LinkedIn-0d0f22?style=for-the-badge&logo=linkedin&logoColor=22b8ff" alt="LinkedIn" /></a>
+<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/contact@axds.ch-0d0f22?style=for-the-badge&logo=maildotru&logoColor=ff2e88" alt="Email" /></a>
 
 </div>
 
@@ -113,8 +113,8 @@ Huit ans en environnements exigeants — Assistant Manager au Southbank Centre (
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Common%20Core-100%25-0a0908?style=for-the-badge&logo=42&logoColor=c9a45c&labelColor=1b1814" alt="Common Core 100%" />
-<img src="https://img.shields.io/badge/42%20Advanced-Niveau%2011%20%2F%2021-0a0908?style=for-the-badge&logo=42&logoColor=c9a45c&labelColor=1b1814" alt="42 Advanced niveau 11/21" />
+<img src="https://img.shields.io/badge/Common%20Core-100%25-0d0f22?style=for-the-badge&logo=42&logoColor=ff2e88&labelColor=1a1d3a" alt="Common Core 100%" />
+<img src="https://img.shields.io/badge/42%20Advanced-Niveau%2011%20%2F%2021-0d0f22?style=for-the-badge&logo=42&logoColor=ff2e88&labelColor=1a1d3a" alt="42 Advanced niveau 11/21" />
 
 </div>
 
@@ -128,11 +128,11 @@ Huit ans en environnements exigeants — Assistant Manager au Southbank Centre (
 
 | | |
 |:--|:--|
-| **IA · Data** | ![Python](https://img.shields.io/badge/Python-12100e?style=flat-square&logo=python&logoColor=c9a45c) ![NumPy](https://img.shields.io/badge/NumPy-12100e?style=flat-square&logo=numpy&logoColor=c9a45c) ![Pandas](https://img.shields.io/badge/Pandas-12100e?style=flat-square&logo=pandas&logoColor=c9a45c) ![LangChain](https://img.shields.io/badge/LangChain-12100e?style=flat-square&logo=langchain&logoColor=c9a45c) ![Ollama](https://img.shields.io/badge/Ollama-12100e?style=flat-square&logo=ollama&logoColor=c9a45c) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-12100e?style=flat-square&logo=docker&logoColor=c9a45c) ![Kubernetes](https://img.shields.io/badge/Kubernetes-12100e?style=flat-square&logo=kubernetes&logoColor=c9a45c) ![Terraform](https://img.shields.io/badge/Terraform-12100e?style=flat-square&logo=terraform&logoColor=c9a45c) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-12100e?style=flat-square&logo=githubactions&logoColor=c9a45c) ![NGINX](https://img.shields.io/badge/NGINX-12100e?style=flat-square&logo=nginx&logoColor=c9a45c) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12100e?style=flat-square&logo=postgresql&logoColor=c9a45c) |
-| **Systèmes** | ![C](https://img.shields.io/badge/C-12100e?style=flat-square&logo=c&logoColor=c9a45c) ![C++](https://img.shields.io/badge/C%2B%2B-12100e?style=flat-square&logo=cplusplus&logoColor=c9a45c) ![Linux](https://img.shields.io/badge/Linux-12100e?style=flat-square&logo=linux&logoColor=c9a45c) ![Bash](https://img.shields.io/badge/Bash-12100e?style=flat-square&logo=gnubash&logoColor=c9a45c) ![Git](https://img.shields.io/badge/Git-12100e?style=flat-square&logo=git&logoColor=c9a45c) |
-| **Cyber** | ![Trivy](https://img.shields.io/badge/Trivy-12100e?style=flat-square&logo=aqua&logoColor=c9a45c) ![OWASP](https://img.shields.io/badge/OWASP-12100e?style=flat-square&logo=owasp&logoColor=c9a45c) ![Nmap](https://img.shields.io/badge/Nmap-12100e?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-12100e?style=flat-square&logo=wireshark&logoColor=c9a45c) |
-| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-12100e?style=flat-square&logo=typescript&logoColor=c9a45c) ![Next.js](https://img.shields.io/badge/Next.js-12100e?style=flat-square&logo=nextdotjs&logoColor=c9a45c) ![NestJS](https://img.shields.io/badge/NestJS-12100e?style=flat-square&logo=nestjs&logoColor=c9a45c) ![Prisma](https://img.shields.io/badge/Prisma-12100e?style=flat-square&logo=prisma&logoColor=c9a45c) |
+| **IA · Data** | ![Python](https://img.shields.io/badge/Python-0d0f22?style=flat-square&logo=python&logoColor=ff2e88) ![NumPy](https://img.shields.io/badge/NumPy-0d0f22?style=flat-square&logo=numpy&logoColor=ff2e88) ![Pandas](https://img.shields.io/badge/Pandas-0d0f22?style=flat-square&logo=pandas&logoColor=ff2e88) ![LangChain](https://img.shields.io/badge/LangChain-0d0f22?style=flat-square&logo=langchain&logoColor=ff2e88) ![Ollama](https://img.shields.io/badge/Ollama-0d0f22?style=flat-square&logo=ollama&logoColor=ff2e88) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-0d0f22?style=flat-square&logo=docker&logoColor=22b8ff) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0f22?style=flat-square&logo=kubernetes&logoColor=22b8ff) ![Terraform](https://img.shields.io/badge/Terraform-0d0f22?style=flat-square&logo=terraform&logoColor=22b8ff) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d0f22?style=flat-square&logo=githubactions&logoColor=22b8ff) ![NGINX](https://img.shields.io/badge/NGINX-0d0f22?style=flat-square&logo=nginx&logoColor=22b8ff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0f22?style=flat-square&logo=postgresql&logoColor=22b8ff) |
+| **Systèmes** | ![C](https://img.shields.io/badge/C-0d0f22?style=flat-square&logo=c&logoColor=22b8ff) ![C++](https://img.shields.io/badge/C%2B%2B-0d0f22?style=flat-square&logo=cplusplus&logoColor=22b8ff) ![Linux](https://img.shields.io/badge/Linux-0d0f22?style=flat-square&logo=linux&logoColor=22b8ff) ![Bash](https://img.shields.io/badge/Bash-0d0f22?style=flat-square&logo=gnubash&logoColor=22b8ff) ![Git](https://img.shields.io/badge/Git-0d0f22?style=flat-square&logo=git&logoColor=22b8ff) |
+| **Cyber** | ![Trivy](https://img.shields.io/badge/Trivy-0d0f22?style=flat-square&logo=aqua&logoColor=ff2e88) ![OWASP](https://img.shields.io/badge/OWASP-0d0f22?style=flat-square&logo=owasp&logoColor=ff2e88) ![Nmap](https://img.shields.io/badge/Nmap-0d0f22?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-0d0f22?style=flat-square&logo=wireshark&logoColor=ff2e88) |
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-0d0f22?style=flat-square&logo=typescript&logoColor=22b8ff) ![Next.js](https://img.shields.io/badge/Next.js-0d0f22?style=flat-square&logo=nextdotjs&logoColor=22b8ff) ![NestJS](https://img.shields.io/badge/NestJS-0d0f22?style=flat-square&logo=nestjs&logoColor=22b8ff) ![Prisma](https://img.shields.io/badge/Prisma-0d0f22?style=flat-square&logo=prisma&logoColor=22b8ff) |
 
 <br>
 
@@ -147,10 +147,12 @@ Huit ans en environnements exigeants — Assistant Manager au Southbank Centre (
 
 <br>
 
-<a href="https://axds.ch"><img src="https://img.shields.io/badge/Voir%20le%20portfolio%20%E2%86%92-0a0908?style=for-the-badge" alt="Voir le portfolio" /></a>
-<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/Me%20contacter%20%E2%86%92-c9a45c?style=for-the-badge" alt="Me contacter" /></a>
+<a href="https://axds.ch"><img src="https://img.shields.io/badge/Voir%20le%20portfolio%20%E2%86%92-22b8ff?style=for-the-badge" alt="Voir le portfolio" /></a>
+<a href="mailto:contact@axds.ch"><img src="https://img.shields.io/badge/Me%20contacter%20%E2%86%92-ff2e88?style=for-the-badge" alt="Me contacter" /></a>
 
 <br><br>
+
+<img src="77caa32884d735d439ade45ba37feaf2.gif" alt="" width="100%" />
 
 <sub>AXDS.CH · LAUSANNE · ÉDITION 2026</sub>
 
