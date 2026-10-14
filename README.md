@@ -40,7 +40,7 @@ Strong low-level foundations in **C/C++**, hands-on projects in **DevSecOps CI/C
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [SecureCI](https://github.com/XI-X-IX/SecureCI)
+### 🔐 [Shift Left](https://github.com/XI-X-IX/SecureCI)
 Pipeline **DevSecOps** de bout en bout : analyse statique (Bandit), audit des dépendances (Safety), détection de secrets (TruffleHog), scan d'images (Trivy), puis déploiement **Terraform + Kubernetes**.
 
 `Python` `Flask` `GitHub Actions` `Terraform` `Kubernetes`
