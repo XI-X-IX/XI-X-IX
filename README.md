@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="axds_banier_new.png" alt="axds — 42 Lausanne · AI · Automation · DevOps · Cyber" width="100%" />
+# axds
 
 ### Étudiante à 42 Lausanne · Backend, DevOps & Cybersécurité
 
 **Je cherche un stage** — Développeuse Junior · Backend · DevOps / SRE · IA<br>
 Disponible immédiatement · Suisse romande, Europe ou remote · Français / English
 
-<a href="mailto:axds.contact@gmail.com"><img src="https://img.shields.io/badge/Email-axds.contact%40gmail.com-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://axds.ch"><img src="https://img.shields.io/badge/Portfolio-axds.ch-1E2024?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://tryhackme.com/p/axds."><img src="https://img.shields.io/badge/TryHackMe-axds.-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="mailto:axds.contact@gmail.com"><img src="https://img.shields.io/badge/Email-axds.contact%40gmail.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://axds.ch"><img src="https://img.shields.io/badge/Portfolio-axds.ch-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://tryhackme.com/p/axds."><img src="https://img.shields.io/badge/TryHackMe-axds.-7B2FFF?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 
 </div>
 
