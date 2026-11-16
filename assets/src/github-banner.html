@@ -1,0 +1,46 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0d1117;--pink:#ff3d9a;--blue:#3cc8ff;--fg:#e6edf3;--muted:#7d8590;--line:#30363d}
+body{margin:0;background:var(--bg)}
+#b{width:1600px;height:400px;position:relative;overflow:hidden;background:var(--bg);font-family:'Space Grotesk',sans-serif;color:var(--fg)}
+.mono{font-family:'JetBrains Mono',monospace}
+.glow-p{position:absolute;width:760px;height:760px;left:-260px;top:40px;border-radius:50%;background:radial-gradient(circle,rgba(255,61,154,.22),rgba(255,61,154,0) 62%)}
+.glow-b{position:absolute;width:820px;height:820px;right:-240px;top:-420px;border-radius:50%;background:radial-gradient(circle,rgba(60,200,255,.20),rgba(60,200,255,0) 62%)}
+.fade{position:absolute;inset:0;box-shadow:inset 0 0 60px 30px var(--bg)}
+.label{position:absolute;top:34px;font-size:15px;letter-spacing:.32em;color:var(--muted)}
+.logo{position:absolute;left:96px;top:118px;width:340px;height:164px}
+.logo .c{position:absolute;width:64px;height:58px}
+.logo .tl{left:0;top:0;border-left:4px solid var(--pink);border-top:4px solid var(--pink);filter:drop-shadow(0 0 8px var(--pink))}
+.logo .br{right:0;bottom:0;border-right:4px solid var(--blue);border-bottom:4px solid var(--blue);filter:drop-shadow(0 0 8px var(--blue))}
+.logo .t{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:76px;font-weight:700;letter-spacing:.14em;padding-left:.14em;color:#fff;
+ text-shadow:0 0 6px rgba(255,255,255,.7),0 0 22px rgba(255,61,154,.55),0 0 44px rgba(60,200,255,.35)}
+.sep{position:absolute;left:540px;top:70px;bottom:70px;width:1px;background:linear-gradient(var(--pink),var(--blue));opacity:.45}
+.main{position:absolute;left:612px;right:80px;top:0;bottom:60px;display:flex;flex-direction:column;justify-content:center;gap:16px}
+h1{margin:0;font-size:70px;line-height:1;font-weight:700;letter-spacing:-1.5px}
+.sub{margin:0;width:fit-content;font-size:32px;font-weight:500;background:linear-gradient(90deg,var(--pink),#b86bff 50%,var(--blue));-webkit-background-clip:text;color:transparent;filter:drop-shadow(0 0 14px rgba(255,61,154,.25))}
+.tags{display:flex;gap:12px;margin-top:8px}
+.tag{padding:8px 15px;border-radius:7px;font-size:16px;letter-spacing:.04em;color:#c9d1d9;background:rgba(13,17,23,.6)}
+.tp{border:1px solid rgba(255,61,154,.65);box-shadow:0 0 12px rgba(255,61,154,.22)}
+.tb{border:1px solid rgba(60,200,255,.65);box-shadow:0 0 12px rgba(60,200,255,.22)}
+.foot{position:absolute;left:612px;right:80px;bottom:34px;display:flex;justify-content:space-between;align-items:center;font-size:17px}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--blue);box-shadow:0 0 10px var(--blue);margin-right:12px;vertical-align:1px}
+.horizon{position:absolute;left:0;right:0;bottom:0;height:2px;background:linear-gradient(90deg,rgba(255,61,154,0),var(--pink) 25%,var(--blue) 75%,rgba(60,200,255,0));opacity:.7}
+</style></head><body>
+<div id="b">
+ <svg width="1600" height="400" style="position:absolute;inset:0"><defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs><rect width="1600" height="400" fill="url(#g)"/></svg>
+ <div class="glow-p"></div><div class="glow-b"></div><div class="fade"></div>
+ <div class="label mono" style="left:56px">PROFILE · <span style="color:var(--blue)">@XI-X-IX</span></div>
+ <div class="label mono" style="right:56px">AXDS.CH</div>
+ <div class="logo"><div class="c tl"></div><div class="c br"></div><div class="t">AXDS</div></div>
+ <div class="mono" style="position:absolute;left:96px;top:306px;font-size:16px;color:var(--muted);letter-spacing:.06em">42 Lausanne · <span style="color:var(--pink)">build, break, learn</span></div>
+ <div class="sep"></div>
+ <div class="main">
+  <p class="mono" style="margin:0;font-size:20px;color:var(--blue)">&gt; whoami<span style="display:inline-block;width:11px;height:22px;background:var(--pink);margin-left:8px;vertical-align:-4px;box-shadow:0 0 10px var(--pink)"></span></p>
+  <h1>Software Developer</h1>
+  <p class="sub">Automatisation · DevOps · IA · Sécurité</p>
+  <div class="tags mono"><span class="tag tp">42 Lausanne</span><span class="tag tb">C · Python · Linux</span><span class="tag tp">Git · Docker · CI/CD</span><span class="tag tb">Scripting · Data · API</span></div>
+ </div>
+ <div class="foot mono"><span><span class="dot"></span>Ouverte à un stage · Suisse · Remote</span><span style="color:var(--muted)">axds.ch · github.com/XI-X-IX</span></div>
+ <div class="horizon"></div>
+</div></body></html>
