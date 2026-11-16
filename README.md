@@ -2,7 +2,7 @@
 
 <img src="assets/github-banner.png" alt="AXDS — Software Developer · Automatisation, DevOps, IA, Sécurité" width="100%" />
 
-<br>
+<br><br><br>
 
 Étudiante à **[42 Lausanne](https://42lausanne.ch/)**, je construis mon expertise autour du **développement système**, de l'**algorithmie** et de la **programmation bas niveau** en **C / C++**.  
 En parallèle, je travaille sur des projets **backend**, **DevOps**, **cybersécurité**, **intelligence artificielle** et **optimisation logicielle**.
