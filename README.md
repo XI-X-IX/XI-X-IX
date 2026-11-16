@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="axds_banier_new.png" alt="AXDS" width="100%" />
+<img src="assets/banner.png" alt="Alexandra Dos Santos — Software engineer · IA, Data, DevOps, Cyber" width="100%" />
 
 <br>
 
